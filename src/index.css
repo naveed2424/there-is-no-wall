@@ -1,0 +1,46 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-serif: "Cormorant Garamond", Georgia, serif;
+    --font-sans: "Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+    --font-mono: "JetBrains Mono", monospace;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    background-color: #0c0e12;
+    color: #eae7e1;
+    overflow-x: hidden;
+  }
+
+  h1, h2, h3, .font-serif-editorial {
+    font-family: var(--font-serif);
+    letter-spacing: -0.015em;
+  }
+}
+
+/* Custom editorial styling */
+.editorial-glass {
+  background: rgba(20, 24, 30, 0.7);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(229, 201, 112, 0.12);
+}
+
+.editorial-glass-subtle {
+  background: rgba(18, 22, 28, 0.5);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.gold-gradient-text {
+  background: linear-gradient(135deg, #f7f5f0 20%, #e2c56a 60%, #b89332 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.light-beam-glow {
+  background: radial-gradient(circle at 50% 0%, rgba(212, 175, 55, 0.12) 0%, rgba(14, 16, 19, 0) 70%);
+}
+

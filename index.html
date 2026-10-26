@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="en" class="scroll-smooth">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script>
+      // Compatibility guard for browser extensions (request interceptors, Web3 wallets)
+      (function() {
+        try {
+          var _origFetch = window.fetch;
+          var _fetch = _origFetch ? _origFetch.bind(window) : undefined;
+          Object.defineProperty(window, 'fetch', {
+            get: function() { return _fetch; },
+            set: function(fn) { _fetch = fn; },
+            configurable: true,
+            enumerable: true
+          });
+        } catch (err) {}
+
+        // Prevent external extension errors from breaking application telemetry
+        window.addEventListener('error', function(event) {
+          if (
+            (event.filename && (event.filename.indexOf('chrome-extension://') !== -1 || event.filename.indexOf('moz-extension://') !== -1)) ||
+            (event.message && (event.message.indexOf('fetch of #<Window>') !== -1 || event.message.indexOf('MetaMask') !== -1))
+          ) {
+            event.stopImmediatePropagation();
+            event.preventDefault();
+          }
+        }, true);
+
+        window.addEventListener('unhandledrejection', function(event) {
+          var msg = event.reason && (event.reason.message || event.reason.stack || String(event.reason));
+          if (msg && (msg.indexOf('chrome-extension://') !== -1 || msg.indexOf('MetaMask') !== -1 || msg.indexOf('fetch of #<Window>') !== -1)) {
+            event.stopImmediatePropagation();
+            event.preventDefault();
+          }
+        }, true);
+      })();
+    </script>
+    <title>There Is No Wall — A 30-Day Journey Through Manifestation, Mindset & Limiting Beliefs</title>
+    <meta name="description" content="Discover There Is No Wall by Naveed Afzal — a practical 30-day journey exploring limiting beliefs, self-concept, manifestation, visualization and intentional action." />
+    
+    <!-- OpenGraph Social Cards -->
+    <meta property="og:type" content="book" />
+    <meta property="og:site_name" content="There Is No Wall" />
+    <meta property="og:title" content="There Is No Wall — The Manifestation Effect by Naveed Afzal" />
+    <meta property="og:description" content="Discover There Is No Wall: The Manifestation Effect by Naveed Afzal — a practical 30-day journey on Amazon Kindle exploring limiting beliefs, self-concept, and intentional action." />
+    <meta property="og:image" content="/assets/aistudio/There_Is_No_Wall_Cover_Thumbnail_4226b920.png" />
+    
+    <!-- Twitter Cards -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="There Is No Wall — By Naveed Afzal" />
+    <meta name="twitter:description" content="Why nothing moves until you change who's looking. 30-Day Launch offer: 3,99 € on Amazon Kindle." />
+    <meta name="twitter:image" content="/assets/aistudio/There_Is_No_Wall_Cover_Thumbnail_4226b920.png" />
+
+    <!-- Google Fonts: Cormorant Garamond & Plus Jakarta Sans -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+
+    <!-- Canonical Tag will be updated dynamically in client -->
+    <link rel="canonical" href="https://nowall.netlify.app/" />
+
+    <!-- Schema.org JSON-LD Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "@id": "https://nowall.netlify.app/#website",
+          "url": "https://nowall.netlify.app/",
+          "name": "There Is No Wall",
+          "description": "Official website for There Is No Wall by Naveed Afzal",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://nowall.netlify.app/#webpage",
+          "url": "https://nowall.netlify.app/",
+          "name": "There Is No Wall — A 30-Day Journey Through Manifestation, Mindset & Limiting Beliefs",
+          "description": "Discover There Is No Wall by Naveed Afzal — a practical 30-day journey exploring limiting beliefs, self-concept, manifestation, visualization and intentional action.",
+          "isPartOf": {
+            "@id": "https://nowall.netlify.app/#website"
+          }
+        },
+        {
+          "@type": "Book",
+          "@id": "https://nowall.netlify.app/#book",
+          "name": "There Is No Wall: The Manifestation Effect",
+          "alternateName": "Why nothing moves until you change who's looking",
+          "author": {
+            "@type": "Person",
+            "name": "Naveed Afzal",
+            "description": "Technologist, mindful practitioner, and author exploring ideas around mindset, self-awareness, personal growth, intuition, possibility and internal narratives."
+          },
+          "bookFormat": "EBook",
+          "inLanguage": "en",
+          "genre": ["Personal Development", "Mindset", "Self-Reflection", "Manifestation"],
+          "description": "A practical 30-day journey exploring limiting beliefs, self-concept, manifestation, visualization and intentional action.",
+          "offers": {
+            "@type": "Offer",
+            "price": "3.99",
+            "priceCurrency": "EUR",
+            "availability": "https://schema.org/InStock",
+            "url": "https://www.amazon.fr/There-No-Wall-Manifestation-Nothing-ebook/dp/B0HNHN8GSN"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "@id": "https://nowall.netlify.app/#faq",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What is There Is No Wall about?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "There Is No Wall explores the beliefs, assumptions, identity patterns and internal narratives that can influence how people approach their goals and possibilities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is this a manifestation book?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Manifestation is one of the concepts explored in the book, but the book takes a practical mindset-oriented approach focused on beliefs, self-concept, awareness, visualization and action rather than promising supernatural results."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is this a 30-day program?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The book includes a structured 30-day journey designed to help readers reflect on limiting beliefs, identity, possibility and action."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is this therapy?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. This book is educational and reflective in nature. It is not psychotherapy, medical advice, mental-health treatment, or a substitute for professional care."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Do I need previous experience with manifestation?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. The concepts are designed to be approachable whether you are completely new to manifestation and mindset work or already familiar with the subject."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the book available digitally?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The book is designed as a digital reading experience."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Who is this book for?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is intended for readers interested in personal development, manifestation, self-concept, limiting beliefs, visualization, mindset and practical self-reflection."
+              }
+            }
+          ]
+        }
+      ]
+    }
+    </script>
+  </head>
+  <body class="bg-[#0e1013] text-[#e8e6e3] font-sans antialiased selection:bg-[#d4af37]/25 selection:text-[#f7f5f0]">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
+

@@ -1,0 +1,1239 @@
+You are an expert conversion-focused web designer, UX strategist, SEO specialist, copywriter, CRO expert, and front-end developer.
+
+Your task is to completely redesign and rebuild my existing website:
+
+https://nowall.netlify.app/
+
+The website sells/promotes my digital ebook:
+
+TITLE:
+There Is No Wall
+
+AUTHOR:
+Naveed Afzal
+
+CORE CONCEPT:
+The book explores the invisible mental barriers, limiting beliefs, identity patterns, assumptions, self-concepts, and internal narratives that can make people feel separated from the life they want.
+
+The book uses manifestation as an entry point, but it must NOT look like a scammy “instant manifestation” product.
+
+Position the book as an intelligent, practical personal-development and mindset experience combining:
+
+- manifestation concepts
+- limiting beliefs
+- self-concept
+- identity
+- visualization
+- awareness
+- intentional thinking
+- practical exercises
+- journaling
+- reflection
+- action
+- a structured 30-day process
+
+IMPORTANT:
+Do NOT promise supernatural results.
+Do NOT promise guaranteed wealth, love, money, instant manifestation, miracles, or guaranteed transformation.
+Do NOT use fake testimonials.
+Do NOT invent reviews.
+Do NOT invent scientific studies.
+Do NOT claim that thoughts magically control external reality.
+Present manifestation as a framework for exploring beliefs, attention, intention, behavior, possibility, and action.
+
+==================================================
+1. PRIMARY BUSINESS OBJECTIVE
+==================================================
+
+The website's primary objective is to convert visitors into ebook buyers.
+
+The visitor may arrive from:
+
+- TikTok
+- Instagram Reels
+- Facebook
+- Pinterest
+- YouTube Shorts
+- Google
+- Meta Ads
+- organic search
+- direct traffic
+
+The website must therefore work extremely well for COLD TRAFFIC.
+
+The visitor should understand the offer within 5 seconds.
+
+The page must answer:
+
+1. What is this?
+2. Why should I care?
+3. What problem does it address?
+4. What makes this book different?
+5. What will I actually get?
+6. Why should I trust it?
+7. What should I do next?
+
+PRIMARY CTA:
+
+GET THE BOOK
+
+SECONDARY CTA:
+
+DISCOVER THE NO-WALL METHOD™
+
+If the actual Amazon or Gumroad purchase URLs are already present in the existing website/code, preserve them.
+
+If they are not present, create clearly marked configuration variables/placeholders:
+
+AMAZON_URL = "REPLACE_WITH_AMAZON_URL"
+GUMROAD_URL = "REPLACE_WITH_GUMROAD_URL"
+
+Do NOT invent URLs.
+
+==================================================
+2. OVERALL DESIGN DIRECTION
+==================================================
+
+Create a premium, editorial, psychological, transformational visual identity.
+
+The website should feel:
+
+- premium
+- intelligent
+- mysterious
+- calm
+- modern
+- cinematic
+- minimalist
+- emotionally powerful
+- trustworthy
+- sophisticated
+
+Avoid:
+
+- cheesy spiritual graphics
+- fake luxury
+- excessive gold
+- crystal-ball imagery
+- generic stock photos
+- cartoon graphics
+- aggressive sales colors
+- flashing elements
+- excessive gradients
+- fake “limited time” counters
+- fake urgency
+- spammy popups
+- MLM-style design
+- “GET RICH FAST” aesthetics
+
+VISUAL IDEA:
+
+The central visual metaphor is an invisible wall.
+
+Show the concept through:
+
+- subtle glass/transparency
+- light passing through barriers
+- shadows
+- doorways
+- openings
+- paths
+- human silhouettes
+- sunrise/light
+- architectural lines
+- minimal psychological imagery
+
+The visual story should move from:
+
+CONFINEMENT → AWARENESS → POSSIBILITY → ACTION
+
+==================================================
+3. COLOR SYSTEM
+==================================================
+
+Use a sophisticated palette.
+
+Primary:
+Near-black / charcoal
+
+Secondary:
+Warm off-white / ivory
+
+Accent:
+Muted gold or warm champagne
+
+Optional secondary accent:
+Very subtle deep blue-gray
+
+Do not make the entire website gold.
+
+Gold should be used sparingly for:
+
+- tiny accents
+- borders
+- highlights
+- icons
+- selected words
+- CTA details
+
+Maintain excellent contrast and accessibility.
+
+==================================================
+4. TYPOGRAPHY
+==================================================
+
+Use premium editorial typography.
+
+Recommended:
+
+Headings:
+Playfair Display / Cormorant Garamond / similar elegant serif
+
+Body:
+Inter / Manrope / DM Sans / similar clean sans-serif
+
+Use large cinematic headlines.
+
+Example:
+
+WHAT IF THE BIGGEST WALL
+BETWEEN YOU AND THE LIFE
+YOU WANT...
+
+ISN'T ACTUALLY THERE?
+
+Do not overuse uppercase text.
+
+Maintain excellent mobile readability.
+
+==================================================
+5. NAVIGATION
+==================================================
+
+The landing page used for paid advertising should have minimal navigation.
+
+Desktop:
+
+Logo:
+THERE IS NO WALL
+
+Optional small links:
+
+The Book
+The Method
+About
+FAQ
+
+Primary button:
+
+GET THE BOOK
+
+On mobile:
+
+Use a very simple compact navigation.
+
+Do not allow navigation to distract visitors from conversion.
+
+If possible, create a dedicated landing route:
+
+/start
+
+or
+
+/no-wall-method
+
+This page should be optimized specifically for paid traffic.
+
+==================================================
+6. HERO SECTION
+==================================================
+
+Create a powerful above-the-fold section.
+
+Headline:
+
+WHAT IF THE BIGGEST THING
+STANDING BETWEEN YOU
+AND THE LIFE YOU WANT...
+
+ISN'T ACTUALLY THERE?
+
+Subheadline:
+
+You've tried affirmations.
+You've visualized.
+You've set intentions.
+
+But sometimes the hardest barrier to change isn't outside you.
+
+It's the invisible story you have learned to believe about yourself and what is possible.
+
+CTA:
+
+DISCOVER THE NO-WALL METHOD™
+
+Secondary CTA:
+
+GET THE BOOK
+
+Add a subtle micro-trust line:
+
+A practical 30-day journey through beliefs, identity, possibility and action.
+
+Hero visual:
+
+Create a premium ebook mockup of:
+
+THERE IS NO WALL
+by Naveed Afzal
+
+The ebook must look DIGITAL.
+
+Show it on:
+
+- tablet
+- smartphone
+- laptop
+
+Do NOT show a physical printed book.
+
+Do NOT show bookstore shelves.
+
+Do NOT show Amazon packaging.
+
+The book cover should visually communicate:
+
+- invisible barrier
+- breakthrough
+- light
+- transformation
+- possibility
+
+Use realistic premium digital mockups.
+
+==================================================
+7. IMMEDIATE PROBLEM SECTION
+==================================================
+
+Headline:
+
+MAYBE YOU DON'T NEED
+ANOTHER MANIFESTATION TECHNIQUE.
+
+Body:
+
+You've probably heard it before.
+
+Think positive.
+Visualize your future.
+Repeat affirmations.
+Believe harder.
+
+But what happens when part of you still thinks:
+
+"I'm not ready."
+
+"That's not for people like me."
+
+"I'll probably fail."
+
+"Maybe I'm asking for too much."
+
+"What if it doesn't happen?"
+
+The problem may not be that you don't want something badly enough.
+
+The problem may be the invisible assumptions sitting underneath the desire.
+
+That is where the idea of the wall begins.
+
+CTA:
+
+FIND YOUR WALL
+
+==================================================
+8. MICRO-INTERACTIVE EXPERIENCE
+==================================================
+
+Create an interactive section called:
+
+FIND YOUR INVISIBLE WALL
+
+Introduce:
+
+Take 60 seconds.
+
+Think of one thing you genuinely want.
+
+Then answer these questions:
+
+QUESTION 1:
+
+What do I want?
+
+QUESTION 2:
+
+What do I believe is stopping me?
+
+QUESTION 3:
+
+What would I attempt if I knew failure could not define me?
+
+QUESTION 4:
+
+What belief about myself appears underneath my answer?
+
+QUESTION 5:
+
+Is this a fact...
+
+or a story I have repeated?
+
+After completion show:
+
+YOU MAY HAVE JUST FOUND YOUR WALL.
+
+Then:
+
+The goal isn't to pretend every obstacle is imaginary.
+
+The goal is to become better at recognizing which limitations are real, which are changeable, and which may simply be inherited beliefs.
+
+CTA:
+
+EXPLORE THE NO-WALL METHOD™
+
+IMPORTANT:
+This interactive tool must be simple, elegant, and fast.
+
+Do not require account creation.
+
+Do not collect sensitive personal information.
+
+Do not send answers to a server unless a real backend exists.
+
+By default, process answers locally in the browser.
+
+==================================================
+9. THE NO-WALL METHOD™
+==================================================
+
+Create a major visual section.
+
+Headline:
+
+THE NO-WALL METHOD™
+
+Subheadline:
+
+A five-step framework for moving from unconscious limitation to conscious action.
+
+Display five large steps.
+
+01
+SEE
+
+Recognize the invisible belief, assumption, fear, or identity pattern influencing the way you see possibility.
+
+02
+QUESTION
+
+Examine the belief instead of automatically treating it as truth.
+
+03
+RELEASE
+
+Create distance from old stories that no longer serve your goals.
+
+04
+REBUILD
+
+Develop a more intentional relationship with identity, possibility, and self-concept.
+
+05
+ACT
+
+Translate insight into real-world behavior.
+
+Create a beautiful horizontal timeline on desktop.
+
+On mobile, convert it into stacked cards.
+
+Add subtle animations when cards enter the viewport.
+
+Do not overanimate.
+
+==================================================
+10. BOOK PRESENTATION
+==================================================
+
+Headline:
+
+THERE IS NO WALL
+
+Subheadline:
+
+A practical journey from invisible limitations to conscious possibility.
+
+Description:
+
+There Is No Wall explores the invisible beliefs, identities, assumptions, and internal narratives that can influence the way we approach the life we want.
+
+Instead of asking you to simply "think positive," the book invites you to look underneath the desire.
+
+What do you believe about yourself?
+
+What do you assume is possible?
+
+Which stories are actually yours?
+
+Which ones did you inherit?
+
+And what changes when you stop automatically treating every internal limitation as a permanent truth?
+
+The book combines reflection, practical exercises, mindset work, visualization, journaling, and a structured 30-day process.
+
+CTA:
+
+GET THE BOOK
+
+==================================================
+11. WHAT THE READER WILL EXPLORE
+==================================================
+
+Create a premium grid.
+
+Include:
+
+✓ Invisible limiting beliefs
+
+✓ Self-concept and identity
+
+✓ The psychology of possibility
+
+✓ Why wanting something and believing in your ability to pursue it are different
+
+✓ Recognizing internal resistance
+
+✓ Questioning inherited assumptions
+
+✓ Visualization with intention
+
+✓ Reframing personal narratives
+
+✓ Moving from awareness into action
+
+✓ A structured 30-day practice
+
+Avoid making medical or therapeutic claims.
+
+==================================================
+12. 30-DAY JOURNEY
+==================================================
+
+Create a major section:
+
+30 DAYS.
+ONE WALL AT A TIME.
+
+Week 1:
+
+SEE
+
+Become aware of the beliefs and patterns influencing your decisions.
+
+Week 2:
+
+QUESTION
+
+Challenge assumptions and examine where they came from.
+
+Week 3:
+
+REBUILD
+
+Develop a more intentional self-concept and internal narrative.
+
+Week 4:
+
+ACT
+
+Turn your new perspective into practical behavior.
+
+Final:
+
+The goal isn't to become a completely different person overnight.
+
+It's to become more conscious of the person you're already becoming.
+
+==================================================
+13. BOOK CONTENT PREVIEW
+==================================================
+
+Create an attractive preview section.
+
+Show several fictionalized/placeholder sample pages ONLY if actual book pages are not available.
+
+If real book content is available in project files, use the real content.
+
+Never fabricate a fake quotation and attribute it to the book.
+
+Create:
+
+PAGE 01
+The Wall
+
+PAGE 02
+The Story Behind the Story
+
+PAGE 03
+The No-Wall Method™
+
+PAGE 04
+The 30-Day Journey
+
+PAGE 05
+Reflection Exercise
+
+Add:
+
+PREVIEW THE BOOK
+
+CTA.
+
+==================================================
+14. AUTHOR SECTION
+==================================================
+
+Author:
+
+Naveed Afzal
+
+Headline:
+
+ABOUT THE AUTHOR
+
+Write concise, authentic copy.
+
+Do not invent qualifications.
+
+Do not invent degrees.
+
+Do not claim to be a psychologist, therapist, scientist, doctor, or manifestation expert unless those credentials are explicitly provided.
+
+Position the author as the writer behind the book and framework.
+
+Use:
+
+Naveed Afzal explores ideas around mindset, self-awareness, personal growth, intuition, possibility and the stories people carry about themselves.
+
+His work focuses on turning abstract ideas into practical reflection and exercises readers can actually use.
+
+Keep this section short.
+
+==================================================
+15. SOCIAL PROOF
+==================================================
+
+IMPORTANT:
+
+Do NOT invent testimonials.
+
+Do NOT create fake reviews.
+
+If testimonials already exist in the existing website data, preserve them only if they can be verified as genuine.
+
+If no genuine testimonials exist, replace the section with:
+
+WHY READ THIS BOOK?
+
+Use objective product information instead.
+
+Example:
+
+✓ Practical exercises
+
+✓ 30-day structure
+
+✓ Digital format
+
+✓ Reflection prompts
+
+✓ The No-Wall Method™
+
+✓ Designed for self-guided exploration
+
+==================================================
+16. FAQ
+==================================================
+
+Create an SEO-friendly FAQ section.
+
+Question:
+
+What is There Is No Wall about?
+
+Answer:
+
+There Is No Wall explores the beliefs, assumptions, identity patterns and internal narratives that can influence how people approach their goals and possibilities.
+
+Question:
+
+Is this a manifestation book?
+
+Answer:
+
+Manifestation is one of the concepts explored in the book, but the book takes a practical mindset-oriented approach focused on beliefs, self-concept, awareness, visualization and action rather than promising supernatural results.
+
+Question:
+
+Is this a 30-day program?
+
+Answer:
+
+The book includes a structured 30-day journey designed to help readers reflect on limiting beliefs, identity, possibility and action.
+
+Question:
+
+Is this therapy?
+
+Answer:
+
+No. This book is educational and reflective in nature. It is not psychotherapy, medical advice, mental-health treatment, or a substitute for professional care.
+
+Question:
+
+Do I need previous experience with manifestation?
+
+Answer:
+
+No. The concepts are designed to be approachable whether you are completely new to manifestation and mindset work or already familiar with the subject.
+
+Question:
+
+Is the book available digitally?
+
+Answer:
+
+Yes. The book is designed as a digital reading experience.
+
+Question:
+
+Who is this book for?
+
+Answer:
+
+It is intended for readers interested in personal development, manifestation, self-concept, limiting beliefs, visualization, mindset and practical self-reflection.
+
+==================================================
+17. FINAL CTA
+==================================================
+
+Create a visually powerful final section.
+
+Headline:
+
+WHAT IF THERE IS NO WALL?
+
+Subheadline:
+
+You don't have to have everything figured out.
+
+You only have to become willing to question the walls you've stopped noticing.
+
+Button:
+
+GET THERE IS NO WALL
+
+Secondary:
+
+DISCOVER THE NO-WALL METHOD™
+
+Below:
+
+Digital book • Practical exercises • 30-day journey
+
+==================================================
+18. EXIT-INTENT / EMAIL CAPTURE
+==================================================
+
+Create a tasteful optional email capture.
+
+Headline:
+
+FIND YOUR INVISIBLE WALL
+
+Subheadline:
+
+Get the free 5-minute reflection exercise.
+
+Input:
+
+Email address
+
+Button:
+
+SEND ME THE EXERCISE
+
+IMPORTANT:
+
+Do not pretend that an email was actually sent if no email service is connected.
+
+Create a configuration variable:
+
+EMAIL_PROVIDER = "REPLACE_WITH_EMAIL_PROVIDER"
+
+If no provider exists, show a graceful message telling the site owner that email integration needs to be connected.
+
+==================================================
+19. SEO
+==================================================
+
+Optimize the page for relevant search intent without keyword stuffing.
+
+Primary keyword concepts:
+
+there is no wall book
+manifestation book
+limiting beliefs
+self concept
+manifestation mindset
+manifestation journal
+30 day manifestation
+limiting beliefs workbook
+mindset book
+personal development book
+manifestation exercises
+visualization exercises
+self awareness
+identity transformation
+
+Create:
+
+SEO title:
+
+There Is No Wall — A 30-Day Journey Through Manifestation, Mindset & Limiting Beliefs
+
+Meta description:
+
+Discover There Is No Wall by Naveed Afzal — a practical 30-day journey exploring limiting beliefs, self-concept, manifestation, visualization and intentional action.
+
+Use semantic headings.
+
+Only one H1.
+
+Use descriptive image ALT text.
+
+Do not keyword stuff.
+
+==================================================
+20. STRUCTURED DATA
+==================================================
+
+Implement valid JSON-LD where appropriate.
+
+Use:
+
+Book schema if the required information is actually available.
+
+WebSite schema.
+
+WebPage schema.
+
+FAQPage schema only when the visible FAQ content matches the structured data exactly.
+
+Do not invent:
+
+ISBN
+publication date
+publisher
+aggregate rating
+review count
+author credentials
+
+If those details are unavailable, omit them.
+
+==================================================
+21. GOOGLE / AI / LLM DISCOVERABILITY
+==================================================
+
+Make the content extremely clear for search engines and AI systems.
+
+Clearly state:
+
+What the book is.
+
+Who wrote it.
+
+What problem it addresses.
+
+Who it is for.
+
+What readers can expect.
+
+What it does NOT promise.
+
+Use natural language.
+
+Create clear entity relationships:
+
+Book:
+There Is No Wall
+
+Author:
+Naveed Afzal
+
+Framework:
+The No-Wall Method™
+
+Category:
+Personal Development / Mindset / Manifestation / Self-Reflection
+
+Do not use artificial keyword stuffing.
+
+==================================================
+22. PERFORMANCE
+==================================================
+
+The website must be extremely fast.
+
+Prioritize:
+
+- mobile performance
+- lazy loading
+- compressed images
+- modern image formats
+- minimal JavaScript
+- no unnecessary libraries
+- no autoplay heavy video
+- no render-blocking resources
+- responsive images
+- semantic HTML
+
+Target excellent Core Web Vitals.
+
+==================================================
+23. MOBILE DESIGN
+==================================================
+
+Mobile traffic is extremely important because most social traffic will come from phones.
+
+On mobile:
+
+- hero headline must fit naturally
+- CTA must be immediately visible
+- buttons must be thumb-friendly
+- text must remain readable
+- ebook mockup must look premium
+- no horizontal scrolling
+- no tiny navigation
+- no giant paragraphs
+- no intrusive popups
+
+Create sticky bottom CTA on mobile:
+
+GET THE BOOK
+
+The sticky CTA should not cover important content.
+
+==================================================
+24. ANALYTICS
+==================================================
+
+Prepare the site for:
+
+Google Analytics 4
+Google Search Console
+Meta Pixel
+
+Create configuration placeholders.
+
+Do NOT invent tracking IDs.
+
+Variables:
+
+GA4_ID = "REPLACE_WITH_GA4_ID"
+
+META_PIXEL_ID = "REPLACE_WITH_META_PIXEL_ID"
+
+Track events:
+
+page_view
+scroll_50
+method_view
+book_cta_click
+amazon_click
+gumroad_click
+email_signup
+interactive_exercise_start
+interactive_exercise_complete
+
+If tracking IDs are blank, do not load external tracking scripts.
+
+==================================================
+25. META ADS COMPATIBILITY
+==================================================
+
+Create a dedicated paid traffic route:
+
+/start
+
+The page should match Meta ad messaging.
+
+Example ad:
+
+"What if the biggest wall between you and the life you want isn't actually there?"
+
+The landing page hero must contain closely related language.
+
+Do not create a misleading mismatch.
+
+The first CTA should be visible without scrolling.
+
+==================================================
+26. A/B TESTING PREPARATION
+==================================================
+
+Create easy-to-edit variables for:
+
+HERO_HEADLINE_A
+
+HERO_HEADLINE_B
+
+CTA_TEXT_A
+
+CTA_TEXT_B
+
+PRICE_TEXT
+
+AMAZON_URL
+
+GUMROAD_URL
+
+This will allow future testing.
+
+Suggested headline B:
+
+YOU MAY NOT NEED
+TO MANIFEST HARDER.
+
+YOU MAY NEED TO
+SEE THE WALL.
+
+==================================================
+27. ACCESSIBILITY
+==================================================
+
+Follow WCAG principles.
+
+Include:
+
+- keyboard navigation
+- visible focus states
+- accessible labels
+- sufficient contrast
+- descriptive alt text
+- semantic HTML
+- reduced-motion support
+- properly labeled form fields
+- accessible buttons
+
+==================================================
+28. COOKIE / PRIVACY
+==================================================
+
+If analytics, Meta Pixel, email marketing, or other tracking is implemented, make sure the architecture allows appropriate consent handling for European visitors.
+
+Do not claim GDPR compliance automatically.
+
+Create clearly marked placeholders for:
+
+Privacy Policy
+Terms
+Cookie Policy
+
+Do not fabricate legal text.
+
+==================================================
+29. IMPORTANT SALES PSYCHOLOGY
+==================================================
+
+Use:
+
+curiosity
+problem awareness
+self-recognition
+specificity
+clarity
+micro-commitments
+transformation
+framework
+practicality
+credibility
+low-friction CTA
+
+Avoid:
+
+fake scarcity
+fake countdowns
+fake testimonials
+fake reviews
+guaranteed outcomes
+fear manipulation
+aggressive pressure
+fake authority
+fake scientific claims
+
+The emotional journey should be:
+
+CURIOUS
+
+↓
+
+“I recognize myself.”
+
+↓
+
+“I never thought about it that way.”
+
+↓
+
+“I want to understand this.”
+
+↓
+
+“This framework makes sense.”
+
+↓
+
+“I want the book.”
+
+==================================================
+30. TECHNICAL IMPLEMENTATION
+==================================================
+
+Build the complete website using clean production-quality code.
+
+Prefer:
+
+HTML5
+CSS3
+modern JavaScript
+
+If the existing project uses React/Vite/etc., preserve the existing architecture unless there is a compelling reason to change it.
+
+Do not break existing deployment.
+
+Make everything responsive.
+
+Use reusable components.
+
+Separate content from configuration where practical.
+
+Create a clean configuration area for:
+
+book URLs
+analytics IDs
+social links
+email provider
+pricing
+author information
+
+==================================================
+31. DO NOT INVENT INFORMATION
+==================================================
+
+This is extremely important.
+
+Never invent:
+
+- reviews
+- testimonials
+- credentials
+- sales numbers
+- reader counts
+- ISBN
+- awards
+- publisher
+- scientific studies
+- celebrity endorsements
+- media coverage
+- Amazon rankings
+- fake guarantees
+
+Use placeholders where real information is required.
+
+==================================================
+32. FINAL RESULT
+==================================================
+
+The finished site should feel like a premium digital book brand rather than a generic ebook landing page.
+
+The visitor should leave the first screen thinking:
+
+“Wait... what if that's actually my problem?”
+
+After discovering the framework:
+
+“I want to understand this.”
+
+After seeing the book:
+
+“This is practical enough for me to try.”
+
+Then:
+
+“I want the book.”
+
+PRIMARY CONVERSION:
+
+BOOK PURCHASE
+
+SECONDARY CONVERSION:
+
+EMAIL SIGNUP
+
+TERTIARY CONVERSION:
+
+FREE INVISIBLE WALL EXERCISE
+
+==================================================
+33. FINAL DEVELOPMENT INSTRUCTION
+==================================================
+
+Before finishing:
+
+1. Audit the existing website.
+2. Preserve useful existing assets.
+3. Improve the visual design substantially.
+4. Replace weak copy.
+5. Make the conversion path obvious.
+6. Ensure all buttons work.
+7. Ensure all links use configurable URLs.
+8. Ensure there are no broken links.
+9. Ensure no fake claims exist.
+10. Test mobile layout.
+11. Test desktop layout.
+12. Test accessibility.
+13. Test page speed.
+14. Test form states.
+15. Test CTA events.
+16. Test FAQ accordion.
+17. Test the interactive Invisible Wall exercise.
+18. Verify metadata.
+19. Verify structured data.
+20. Verify that the site can deploy successfully to Netlify.
+
+At the end, provide a concise DEVELOPMENT REPORT listing:
+
+- files changed
+- major features
+- URLs that need to be configured
+- analytics IDs that need to be added
+- email provider that needs to be connected
+- remaining TODOs
+- how to test the funnel
+
+Do not give me a conceptual mockup.
+
+Build the actual working website.
